@@ -47,5 +47,13 @@ Interview the business/production user community:
 ## Inspiration
 
 - Look at the areweXyet? sites.
+- https://github.com/kud1ing/awesome-rust
+
+## Open Questions
+
+- Is this an awful idea that should rather just be solved through crates.io?
+- Is there such a thing as a "production" user/developer, how do we define them?
+- Isn't the rust-nursery enough?
+- Isn't awesome-rust enough?
 
 

@@ -4,7 +4,7 @@ Please log issues to start with.
 
 ## Introduction
 
-This is a reaction to https://m.reddit.com/r/rust/comments/5nu1w7/rust_and_the_limits_of_swarm_design/
+This is a reaction to https://m.reddit.com/r/rust/comments/5nu1w7/rust_and_the_limits_of_swarm_design/ and aims to provide something like https://github.com/kud1ing/awesome-rust for production/business users.
 
 ## Concept
 

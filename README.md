@@ -48,6 +48,7 @@ Interview the business/production user community:
 
 - Look at the areweXyet? sites.
 - https://github.com/kud1ing/awesome-rust
+- https://github.com/matttproud/gochecklist
 
 ## Open Questions
 

@@ -10,7 +10,7 @@ This is a reaction to https://m.reddit.com/r/rust/comments/5nu1w7/rust_and_the_l
 
 As ESR points out, the rust community does not have a BDFL, this gives us the freedom to rally around issues as a community and evolve concepts/ideas as a swarm, without having to get someone's permission to tackle the issue. 
 
-This GitHub organisation is one experiment to see if a community of production focused users and contributors can solve some of the problems laid out in the article and acknowledged by the community. In broad strokes this might involve:
+This GitHub organisation is one experiment to see if a community of production focused users and contributors can solve some of the problems laid out in the article. In broad strokes this might involve:
 
 - Rallying a core group of production and business focused developers and companies to establish a forum for nomination, selection, incubation and maturation of crates and groups of crates (initiatives) useful for popular production workloads.
 

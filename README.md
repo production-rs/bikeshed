@@ -2,6 +2,13 @@
 
 Please log issues to start with.
 
+## Update (19 Jan 2016)
+
+Some nice lists that have popped up:
+
+- https://docs.google.com/document/d/1OPHwdGtnwNTt8HM7NAofGt1pRrARZqrMRtdjFpsEBFU/edit
+- https://github.com/icefoxen/arewestdlibyet
+
 ## Introduction
 
 This is a reaction to https://m.reddit.com/r/rust/comments/5nu1w7/rust_and_the_limits_of_swarm_design/ and aims to provide something like https://github.com/kud1ing/awesome-rust for production/business users.

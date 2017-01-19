@@ -1,0 +1,35 @@
+Criteria to consider:
+
+- 10 year timespan? (How stable is the API)
+- License
+    - open core vs open source
+- Health Metrics
+    - CI
+    - Test Coverage
+        - benchmarking?
+    - Documentation
+        - build and use 
+    - Bus factor
+        - commercial backing?
+        - team/community/organisation-based ownership?
+    - Bug and security reporting process
+    - Contact information
+    - clippy and rustfmt?
+- Developer reputation?
+- Supported platforms
+- Semver
+    - Has a 1.0 release?
+- Compatibility
+- Idiomatic Rust?
+    - layout
+    - use of traits/iterators, etc? works with stdlib?
+    - published on crates.io
+- Code smells and reviews?
+    - minimal stable/LTS dependencies?
+- Maturity
+- real-world use and reverse dependencies
+- Freshness (actively maintained?)
+- responsive maintenance
+- secure coding practices and correctness
+- code of conduct
+- contribution guidelines

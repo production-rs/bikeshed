@@ -7,7 +7,7 @@ Things to consider:
 ## Core
 
 - Time
-- Parallelism
+- Concurrency
 
 ## Rust
 
@@ -27,6 +27,11 @@ Things to consider:
 - HTTP Client
 - Bit handling
 - Non-blocking IO
+
+## Network
+
+- Protocols 
+- Servers
 - RPC
 
 ## Security Essential
@@ -47,6 +52,7 @@ Things to consider:
 
 ## Common
 
+- Platform Bindings
 - Process Management
 - Memory Management
 - File and directory handling
@@ -61,11 +67,12 @@ Things to consider:
 
 ## HPC and Data Science
 
+- Machine Learning
+- Scientific Computing
 - Data Structures
 - Math
 
 ## Application Essentials
-
 
 - Terminal 
 - Image libraries

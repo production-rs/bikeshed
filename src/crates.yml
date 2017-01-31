@@ -1,0 +1,78 @@
+variables:
+
+  categories:
+    - name: Core
+      scategories:
+        - name: Time
+          crate: chrono
+          c_url: https://crates.io/crates/chrono
+        - name: Concurrency
+          crate: rayon
+          c_url: https://crates.io/crates/rayon
+    - name: Essentials
+      scategories:
+        - name: Logging
+          crate: slog
+          c_url: https://crates.io/crates/slog
+        - name: Regex
+          crate: regex
+          c_url: https://crates.io/crates/regex
+        - name: Temporary File Handling
+          crate: tempfile
+          c_url: https://crates.io/crates/tempfile
+        - name: Random Numbers
+        - name: Semver
+        - name: IO
+        - name: Scheduling/Timer/cron
+    - name: Network Essentials
+      scategories:
+        - name: HTTP Client
+        - name: Bit handling
+        - name: Non-blocking IO
+    - name: Network
+      scategories:
+        - name: Protocols
+        - name: Servers
+        - name: RPC
+    - name: Security Essentials
+      scategories:
+        - name: Cryptography
+        - name: Authentication
+    - name: Serialization and Deserialization
+      scategories:
+        - name: Command Line
+        - name: URL
+        - name: TOML
+        - name: JSON
+        - name: YAML
+        - name: CSV
+        - name: xml
+        - name: mime
+        - name: Parser Generators
+    - name: Common
+      scategories:
+        - name: Platform Bindings
+        - name: Process Management
+        - name: Memory Management
+        - name: File and directory handling
+        - name: Functional Programming and Control Flow
+        - name: Compression
+        - name: Database
+        - name: ORM
+        - name: Web Frameworks
+        - name: Template Engines
+    - name: HPC and Data Science
+      scategories:
+        - name: Machine Learning
+        - name: Scientific Computing
+        - name: Data Structures
+        - name: Math
+        - name: Statistics
+    - name: Application Essentials
+      scategories:
+        - name: Terminal
+        - name: Image libraries
+        - name: GUI
+        - name: OpenGL
+        - name: Sound
+

@@ -21,6 +21,7 @@ Things to consider:
 - Temporary File Handling
 - Semver
 - Random Numbers
+- Scheduling/Timer/cron
 
 ## Network Essential
 
@@ -71,6 +72,7 @@ Things to consider:
 - Scientific Computing
 - Data Structures
 - Math
+- Statistics
 
 ## Application Essentials
 

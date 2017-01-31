@@ -2,7 +2,7 @@
 # `prod`
 
 
-[**About**](#about) [**Nominate**](#nomination)
+[**About**](#about) [**Nominate**](#nomination) [**To Do**](#todo) [**Other**](#otherlists)
 
 | Top Level Categories |
 |----------------------|
@@ -12,8 +12,22 @@
 
 | Category                       | Crate                     |                                  |
 |--------------------------------|---------------------------|----------------------------------|
-| Time                           | chrono                    | https://crates.io/crates/chrono  |   |
+| Time                           | chrono                    | https://crates.io/crates/chrono  |   
 | Concurrency                    | rayon                     | https://crates.io/crates/rayon   |
+
+## Essential
+
+| Category                       | Crate                     |                                   |
+|--------------------------------|---------------------------|-----------------------------------|
+| Logging                        | slog                      | https://crates.io/crates/slog     |
+| Regex                          | regex                     | https://crates.io/crates/regex    |
+| Temporary File Handling        | tempfile                  | https://crates.io/crates/tempfile |
+| Random Numbers                 |                           |                                   |
+| Semver                         |                           |                                   |
+| IO                             |                           |                                   |
+| Scheduling/Timer/cron          |                           |                                   |
+
+
 
 
 ## About
@@ -25,5 +39,9 @@ About this project...
 How to nominate...
 
 ## Todo
+
+Link to individual pages of data...
+
+## Other Lists
 
 Link to individual pages of data...

@@ -1,12 +1,15 @@
 <a id="list"></a>
 # `prod`
 
-
-[**About**](#about) [**Nominate**](#nomination) [**To Do**](#todo) [**Other**](#otherlists)
+- [**About**](#about) 
+- [**Nominate**](#nomination) 
+- [**To Do**](#todo) 
+- [**Other**](#otherlists)
 
 | Top Level Categories           |
 |--------------------------------|
 | [**Core**](#core)          |
+| [**Rust**](#rust)          |
 | [**Essentials**](#essentials)          |
 | [**Network Essentials**](#networkessentials)          |
 | [**Network**](#network)          |
@@ -24,6 +27,15 @@
 | Time                   | chrono                    | https://crates.io/crates/chrono |
 | Concurrency                   | rayon                    | https://crates.io/crates/rayon |
 
+[**Top**](#prod)
+## Rust
+
+| Category                       | Crate                     | URL                              |
+|--------------------------------|---------------------------|----------------------------------|
+| Cargo Outdated                   | cargo-outdated                    | https://crates.io/crates/cargo-outdated |
+| Concurrency                   | rayon                    | https://crates.io/crates/rayon |
+
+[**Top**](#prod)
 ## Essentials
 
 | Category                       | Crate                     | URL                              |
@@ -36,6 +48,7 @@
 | IO                   | [**Nominate**](#nomination)                    |  |
 | Scheduling/Timer/cron                   | [**Nominate**](#nomination)                    |  |
 
+[**Top**](#prod)
 ## Network Essentials
 
 | Category                       | Crate                     | URL                              |
@@ -44,6 +57,7 @@
 | Bit handling                   | [**Nominate**](#nomination)                    |  |
 | Non-blocking IO                   | [**Nominate**](#nomination)                    |  |
 
+[**Top**](#prod)
 ## Network
 
 | Category                       | Crate                     | URL                              |
@@ -52,6 +66,7 @@
 | Servers                   | [**Nominate**](#nomination)                    |  |
 | RPC                   | [**Nominate**](#nomination)                    |  |
 
+[**Top**](#prod)
 ## Security Essentials
 
 | Category                       | Crate                     | URL                              |
@@ -59,6 +74,7 @@
 | Cryptography                   | [**Nominate**](#nomination)                    |  |
 | Authentication                   | [**Nominate**](#nomination)                    |  |
 
+[**Top**](#prod)
 ## Serialization and Deserialization
 
 | Category                       | Crate                     | URL                              |
@@ -66,13 +82,14 @@
 | Command Line                   | [**Nominate**](#nomination)                    |  |
 | URL                   | [**Nominate**](#nomination)                    |  |
 | TOML                   | [**Nominate**](#nomination)                    |  |
-| JSON                   | [**Nominate**](#nomination)                    |  |
+| JSON                   | serde_json                    | https://crates.io/crates/serde_json |
 | YAML                   | [**Nominate**](#nomination)                    |  |
 | CSV                   | [**Nominate**](#nomination)                    |  |
 | xml                   | [**Nominate**](#nomination)                    |  |
 | mime                   | [**Nominate**](#nomination)                    |  |
 | Parser Generators                   | [**Nominate**](#nomination)                    |  |
 
+[**Top**](#prod)
 ## Common
 
 | Category                       | Crate                     | URL                              |
@@ -88,6 +105,7 @@
 | Web Frameworks                   | [**Nominate**](#nomination)                    |  |
 | Template Engines                   | [**Nominate**](#nomination)                    |  |
 
+[**Top**](#prod)
 ## HPC and Data Science
 
 | Category                       | Crate                     | URL                              |
@@ -98,6 +116,7 @@
 | Math                   | [**Nominate**](#nomination)                    |  |
 | Statistics                   | [**Nominate**](#nomination)                    |  |
 
+[**Top**](#prod)
 ## Application Essentials
 
 | Category                       | Crate                     | URL                              |
@@ -108,6 +127,7 @@
 | OpenGL                   | [**Nominate**](#nomination)                    |  |
 | Sound                   | [**Nominate**](#nomination)                    |  |
 
+[**Top**](#prod)
 
 ## About
 

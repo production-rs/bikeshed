@@ -9,6 +9,15 @@ variables:
         - name: Concurrency
           crate: rayon
           c_url: https://crates.io/crates/rayon
+    - name: Rust
+      scategories:
+        - name: Cargo Outdated
+          crate: cargo-outdated
+          c_url: https://crates.io/crates/cargo-outdated
+          nominated_by:
+        - name: Concurrency
+          crate: rayon
+          c_url: https://crates.io/crates/rayon
     - name: Essentials
       scategories:
         - name: Logging
@@ -44,6 +53,8 @@ variables:
         - name: URL
         - name: TOML
         - name: JSON
+          crate: serde_json
+          c_url: https://crates.io/crates/serde_json
         - name: YAML
         - name: CSV
         - name: xml
@@ -76,3 +87,26 @@ variables:
         - name: OpenGL
         - name: Sound
 
+  panel:
+    - name: Stephan Buys
+      bio: Instigator
+      profile:
+      shortcut:
+      company:
+        name: Panoptix
+    - name: Stephan Buys
+      bio: Instigator
+      profile:
+      shortcut:
+
+  company:
+    - name: Panoptix
+      about: A small company in ZA
+
+templates:
+  - src: LIST.md.jinja2
+    dst: ../README.md
+  - src: PANEL.md.jinja2
+    dst: ../PANEL.md
+  - src: PROJECTS.md.jinja2
+    dst: ../PROJECTS.md

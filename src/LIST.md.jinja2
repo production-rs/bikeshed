@@ -19,7 +19,7 @@
 | Category                       | Crate                     | URL                              |
 |--------------------------------|---------------------------|----------------------------------|
 {% for s in e.scategories %}
-| {{ s.name }}                   | {{ s.crate|default("[**Nominate**](#nomination)") }}                    | {{ s.c_url|default("") }} |
+| {{ s.name }}                   | {{ s.crate|default("[**Nominate**](#nomination)") }} | {{ s.c_url|default("") }} |
 {% endfor %}
 
 [**Top**](#prod)
@@ -27,16 +27,21 @@
 
 ## About
 
-About this project...
+Have a look at the founding doc: https://github.com/production-rs/bikeshed/blob/master/README.md
 
 ## Nomination
 
-How to nominate...
+Please file issues for now.
 
 ## Todo
 
-Link to individual pages of data...
+- Nomination process guidelines
+- Issue labels
+- Tighten up or extend categories
+- Establish Panel
+- Contribution guidelines, code of conduct
+- Project details, see
 
 ## Other Lists
 
-Link to individual pages of data...
+TODO: Link to individual pages of data...

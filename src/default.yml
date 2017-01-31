@@ -9,15 +9,23 @@ variables:
         - name: Concurrency
           crate: rayon
           c_url: https://crates.io/crates/rayon
+        - name: Static Global Variables
+          crate: lazy_static
+          c_url: https://crates.io/crates/lazy_static
     - name: Rust
       scategories:
         - name: Cargo Outdated
           crate: cargo-outdated
           c_url: https://crates.io/crates/cargo-outdated
-          nominated_by:
-        - name: Concurrency
-          crate: rayon
-          c_url: https://crates.io/crates/rayon
+        - name: Cargo Watch
+          crate: cargo-watch
+          c_url: https://crates.io/crates/cargo-watch
+        - name: Formatting Consistency
+          crate: rustfmt
+          c_url: https://crates.io/crates/rustfmt
+        - name: Linter
+          crate: clippy
+          c_url: https://crates.io/crates/clippy
     - name: Essentials
       scategories:
         - name: Logging
@@ -35,7 +43,12 @@ variables:
         - name: Scheduling/Timer/cron
     - name: Network Essentials
       scategories:
+        - name: URL Handling
+          crate: url
+          c_url: https://crates.io/crates/url
         - name: HTTP Client
+          crate: reqwest
+          c_url: https://crates.io/crates/reqwest
         - name: Bit handling
         - name: Non-blocking IO
     - name: Network
@@ -45,6 +58,9 @@ variables:
         - name: RPC
     - name: Security Essentials
       scategories:
+        - name: SSL/TLS
+          crate: native-tls
+          c_url: https://crates.io/crates/native-tls
         - name: Cryptography
         - name: Authentication
     - name: Serialization and Deserialization
@@ -57,6 +73,8 @@ variables:
           c_url: https://crates.io/crates/serde_json
         - name: YAML
         - name: CSV
+          crate: csv
+          c_url: https://crates.io/crates/csv
         - name: xml
         - name: mime
         - name: Parser Generators
@@ -69,6 +87,9 @@ variables:
         - name: Functional Programming and Control Flow
         - name: Compression
         - name: Database
+        - name: Database Connection Pooling
+          crates: r2d2
+          c_url: https://crates.io/crates/r2d2
         - name: ORM
         - name: Web Frameworks
         - name: Template Engines

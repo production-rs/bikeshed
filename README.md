@@ -150,7 +150,9 @@ Please file issues for now.
 - Tighten up or extend categories
 - Establish Panel
 - Contribution guidelines, code of conduct
-- Project details, see
+- Project details (license, reasons, cargo-esr rating, etc)
+- Category detail/writeup
+- Other candidates for categories
 
 ## Other Lists
 

@@ -145,6 +145,7 @@ Please file issues for now.
 
 ## Todo
 
+- Align with https://crates.io/categories
 - Nomination process guidelines
 - Issue labels
 - Tighten up or extend categories

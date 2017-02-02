@@ -362,7 +362,7 @@ https://crates.io/crates/csv
 ### Database Connection Pooling
 
 #### Crate
-[**Nominate**](#nomination)
+r2d2
 
 #### Url
 https://crates.io/crates/r2d2
@@ -470,10 +470,10 @@ https://crates.io/crates/r2d2
 ### Terminal
 
 #### Crate
-[**Nominate**](#nomination)
+termion
 
 #### Url
-
+https://crates.io/crates/termion
 
 ### Image libraries
 

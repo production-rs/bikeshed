@@ -108,7 +108,7 @@
 | Functional Programming and Control Flow                   | [**Nominate**](#nomination) |  |
 | Compression                   | [**Nominate**](#nomination) |  |
 | Database                   | [**Nominate**](#nomination) |  |
-| Database Connection Pooling                   | [**Nominate**](#nomination) | https://crates.io/crates/r2d2 |
+| Database Connection Pooling                   | r2d2 | https://crates.io/crates/r2d2 |
 | ORM                   | [**Nominate**](#nomination) |  |
 | Web Frameworks                   | [**Nominate**](#nomination) |  |
 | Template Engines                   | [**Nominate**](#nomination) |  |
@@ -138,7 +138,7 @@
 
 | Category                       | Crate                     | URL                              |
 |--------------------------------|---------------------------|----------------------------------|
-| Terminal                   | [**Nominate**](#nomination) |  |
+| Terminal                   | termion | https://crates.io/crates/termion |
 | Image libraries                   | [**Nominate**](#nomination) |  |
 | GUI                   | [**Nominate**](#nomination) |  |
 | OpenGL                   | [**Nominate**](#nomination) |  |

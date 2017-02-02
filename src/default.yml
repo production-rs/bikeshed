@@ -92,7 +92,7 @@ variables:
         - name: Compression
         - name: Database
         - name: Database Connection Pooling
-          crates: r2d2
+          crate: r2d2
           c_url: https://crates.io/crates/r2d2
         - name: ORM
         - name: Web Frameworks
@@ -112,6 +112,8 @@ variables:
     - name: Application Essentials
       scategories:
         - name: Terminal
+          crate: termion
+          c_url: https://crates.io/crates/termion
         - name: Image libraries
         - name: GUI
         - name: OpenGL

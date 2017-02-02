@@ -1,6 +1,8 @@
 <a id="list"></a>
 # `prod`
 
+[![Join the chat at https://gitter.im/production-rs/Lobby](https://badges.gitter.im/production-rs/Lobby.svg)](https://gitter.im/production-rs/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 - [**About**](#about) 
 - [**Nominate**](#nomination) 
 - [**To Do**](#todo) 

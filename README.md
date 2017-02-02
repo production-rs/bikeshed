@@ -26,8 +26,8 @@
 | Category                       | Crate                     | URL                              |
 |--------------------------------|---------------------------|----------------------------------|
 | Time                   | chrono | https://crates.io/crates/chrono |
-| Concurrency                   | rayon | https://crates.io/crates/rayon |
 | Static Global Variables                   | lazy_static | https://crates.io/crates/lazy_static |
+| Data Parallelism                   | rayon | https://crates.io/crates/rayon |
 
 [**Top**](#prod)
 ## Rust

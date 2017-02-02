@@ -11,14 +11,6 @@ chrono
 #### Url
 https://crates.io/crates/chrono
 
-### Concurrency
-
-#### Crate
-rayon
-
-#### Url
-https://crates.io/crates/rayon
-
 ### Static Global Variables
 
 #### Crate
@@ -26,6 +18,14 @@ lazy_static
 
 #### Url
 https://crates.io/crates/lazy_static
+
+### Data Parallelism
+
+#### Crate
+rayon
+
+#### Url
+https://crates.io/crates/rayon
 
 
 [**Top**](#prod)

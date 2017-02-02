@@ -102,10 +102,10 @@ https://crates.io/crates/tempfile
 ### Random Numbers
 
 #### Crate
-[**Nominate**](#nomination)
+rand
 
 #### Url
-
+https://crates.io/crates/rand
 
 ### Semver
 

@@ -48,7 +48,7 @@
 | Structured Logging                   | slog | https://crates.io/crates/slog |
 | Regex                   | regex | https://crates.io/crates/regex |
 | Temporary File Handling                   | tempfile | https://crates.io/crates/tempfile |
-| Random Numbers                   | [**Nominate**](#nomination) |  |
+| Random Numbers                   | rand | https://crates.io/crates/rand |
 | Semver                   | [**Nominate**](#nomination) |  |
 | IO                   | [**Nominate**](#nomination) |  |
 | Scheduling/Timer/cron                   | [**Nominate**](#nomination) |  |

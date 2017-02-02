@@ -42,6 +42,8 @@ variables:
           crate: tempfile
           c_url: https://crates.io/crates/tempfile
         - name: Random Numbers
+          crate: rand
+          c_url: https://crates.io/crates/rand
         - name: Semver
         - name: IO
         - name: Scheduling/Timer/cron

@@ -121,7 +121,7 @@
 | ORM                   | diesel | https://crates.io/crates/diesel |
 | MySQL                   | [**Nominate**](#nomination) |  |
 | Postgresql                   | postgres | https://crates.io/crates/postgres |
-| Elasticsearch                   | [**Nominate**](#nomination) |  |
+| Elasticsearch                   | elastic | https://crates.io/crates/elastic |
 
 [**Top**](#prod)
 ## HPC and Data Science

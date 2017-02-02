@@ -134,10 +134,10 @@ https://crates.io/crates/rand
 ### Semver
 
 #### Crate
-[**Nominate**](#nomination)
+semver
 
 #### Url
-
+https://crates.io/crates/semver
 
 ### IO
 
@@ -259,14 +259,6 @@ https://crates.io/crates/ring
 #### Url
 
 
-### URL
-
-#### Crate
-[**Nominate**](#nomination)
-
-#### Url
-
-
 ### TOML
 
 #### Crate
@@ -286,10 +278,10 @@ https://crates.io/crates/serde_json
 ### YAML
 
 #### Crate
-[**Nominate**](#nomination)
+serde_yaml
 
 #### Url
-
+https://crates.io/crates/serde_yaml
 
 ### CSV
 
@@ -375,30 +367,6 @@ https://crates.io/crates/csv
 #### Url
 
 
-### Database
-
-#### Crate
-[**Nominate**](#nomination)
-
-#### Url
-
-
-### Database Connection Pooling
-
-#### Crate
-r2d2
-
-#### Url
-https://crates.io/crates/r2d2
-
-### ORM
-
-#### Crate
-[**Nominate**](#nomination)
-
-#### Url
-
-
 ### Web Frameworks
 
 #### Crate
@@ -419,6 +387,22 @@ https://crates.io/crates/r2d2
 [**Top**](#prod)
 ## Database
 
+### Database Connection Pooling
+
+#### Crate
+r2d2
+
+#### Url
+https://crates.io/crates/r2d2
+
+### ORM
+
+#### Crate
+diesel
+
+#### Url
+https://crates.io/crates/diesel
+
 ### MySQL
 
 #### Crate
@@ -430,10 +414,10 @@ https://crates.io/crates/r2d2
 ### Postgresql
 
 #### Crate
-[**Nominate**](#nomination)
+postgres
 
 #### Url
-
+https://crates.io/crates/postgres
 
 ### Elasticsearch
 
@@ -502,10 +486,10 @@ https://crates.io/crates/termion
 ### Image libraries
 
 #### Crate
-[**Nominate**](#nomination)
+image
 
 #### Url
-
+https://crates.io/crates/image
 
 ### GUI
 

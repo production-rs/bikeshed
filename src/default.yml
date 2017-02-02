@@ -50,6 +50,8 @@ variables:
           crate: rand
           c_url: https://crates.io/crates/rand
         - name: Semver
+          crate: semver
+          c_url: https://crates.io/crates/semver
         - name: IO
         - name: Scheduling/Timer/cron
     - name: Network Essentials
@@ -81,12 +83,13 @@ variables:
     - name: Serialization and Deserialization
       scategories:
         - name: Command Line
-        - name: URL
         - name: TOML
         - name: JSON
           crate: serde_json
           c_url: https://crates.io/crates/serde_json
         - name: YAML
+          crate: serde_yaml
+          c_url: https://crates.io/crates/serde_yaml
         - name: CSV
           crate: csv
           c_url: https://crates.io/crates/csv
@@ -101,17 +104,20 @@ variables:
         - name: File and directory handling
         - name: Functional Programming and Control Flow
         - name: Compression
-        - name: Database
-        - name: Database Connection Pooling
-          crate: r2d2
-          c_url: https://crates.io/crates/r2d2
-        - name: ORM
         - name: Web Frameworks
         - name: Template Engines
     - name: Database
       scategories:
+        - name: Database Connection Pooling
+          crate: r2d2
+          c_url: https://crates.io/crates/r2d2
+        - name: ORM
+          crate: diesel
+          c_url: https://crates.io/crates/diesel
         - name: MySQL
         - name: Postgresql
+          crate: postgres
+          c_url: https://crates.io/crates/postgres
         - name: Elasticsearch
     - name: HPC and Data Science
       scategories:
@@ -126,6 +132,8 @@ variables:
           crate: termion
           c_url: https://crates.io/crates/termion
         - name: Image libraries
+          crate: image
+          c_url: https://crates.io/crates/image
         - name: GUI
         - name: OpenGL
         - name: Sound
@@ -137,7 +145,7 @@ variables:
       shortcut:
       company:
         name: Panoptix
-    - name: Stephan Buys
+    - name: Eric Kidd
       bio: Instigator
       profile:
       shortcut:

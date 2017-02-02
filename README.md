@@ -52,7 +52,7 @@
 | Regex                   | regex | https://crates.io/crates/regex |
 | Temporary File Handling                   | tempfile | https://crates.io/crates/tempfile |
 | Random Numbers                   | rand | https://crates.io/crates/rand |
-| Semver                   | [**Nominate**](#nomination) |  |
+| Semver                   | semver | https://crates.io/crates/semver |
 | IO                   | [**Nominate**](#nomination) |  |
 | Scheduling/Timer/cron                   | [**Nominate**](#nomination) |  |
 
@@ -90,10 +90,9 @@
 | Category                       | Crate                     | URL                              |
 |--------------------------------|---------------------------|----------------------------------|
 | Command Line                   | [**Nominate**](#nomination) |  |
-| URL                   | [**Nominate**](#nomination) |  |
 | TOML                   | [**Nominate**](#nomination) |  |
 | JSON                   | serde_json | https://crates.io/crates/serde_json |
-| YAML                   | [**Nominate**](#nomination) |  |
+| YAML                   | serde_yaml | https://crates.io/crates/serde_yaml |
 | CSV                   | csv | https://crates.io/crates/csv |
 | xml                   | [**Nominate**](#nomination) |  |
 | mime                   | [**Nominate**](#nomination) |  |
@@ -110,9 +109,6 @@
 | File and directory handling                   | [**Nominate**](#nomination) |  |
 | Functional Programming and Control Flow                   | [**Nominate**](#nomination) |  |
 | Compression                   | [**Nominate**](#nomination) |  |
-| Database                   | [**Nominate**](#nomination) |  |
-| Database Connection Pooling                   | r2d2 | https://crates.io/crates/r2d2 |
-| ORM                   | [**Nominate**](#nomination) |  |
 | Web Frameworks                   | [**Nominate**](#nomination) |  |
 | Template Engines                   | [**Nominate**](#nomination) |  |
 
@@ -121,8 +117,10 @@
 
 | Category                       | Crate                     | URL                              |
 |--------------------------------|---------------------------|----------------------------------|
+| Database Connection Pooling                   | r2d2 | https://crates.io/crates/r2d2 |
+| ORM                   | diesel | https://crates.io/crates/diesel |
 | MySQL                   | [**Nominate**](#nomination) |  |
-| Postgresql                   | [**Nominate**](#nomination) |  |
+| Postgresql                   | postgres | https://crates.io/crates/postgres |
 | Elasticsearch                   | [**Nominate**](#nomination) |  |
 
 [**Top**](#prod)
@@ -142,7 +140,7 @@
 | Category                       | Crate                     | URL                              |
 |--------------------------------|---------------------------|----------------------------------|
 | Terminal                   | termion | https://crates.io/crates/termion |
-| Image libraries                   | [**Nominate**](#nomination) |  |
+| Image libraries                   | image | https://crates.io/crates/image |
 | GUI                   | [**Nominate**](#nomination) |  |
 | OpenGL                   | [**Nominate**](#nomination) |  |
 | Sound                   | [**Nominate**](#nomination) |  |

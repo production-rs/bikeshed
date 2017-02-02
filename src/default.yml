@@ -75,6 +75,8 @@ variables:
           crate: native-tls
           c_url: https://crates.io/crates/native-tls
         - name: Cryptography
+          crate: ring
+          c_url: https://crates.io/crates/ring
         - name: Authentication
     - name: Serialization and Deserialization
       scategories:

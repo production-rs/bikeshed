@@ -81,7 +81,7 @@
 | Category                       | Crate                     | URL                              |
 |--------------------------------|---------------------------|----------------------------------|
 | SSL/TLS                   | native-tls | https://crates.io/crates/native-tls |
-| Cryptography                   | [**Nominate**](#nomination) |  |
+| Cryptography                   | ring | https://crates.io/crates/ring |
 | Authentication                   | [**Nominate**](#nomination) |  |
 
 [**Top**](#prod)

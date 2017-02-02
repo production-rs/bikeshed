@@ -234,10 +234,10 @@ https://crates.io/crates/native-tls
 ### Cryptography
 
 #### Crate
-[**Nominate**](#nomination)
+ring
 
 #### Url
-
+https://crates.io/crates/ring
 
 ### Authentication
 

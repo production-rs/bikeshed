@@ -119,6 +119,8 @@ variables:
           crate: postgres
           c_url: https://crates.io/crates/postgres
         - name: Elasticsearch
+          crate: elastic
+          c_url: https://crates.io/crates/elastic
     - name: HPC and Data Science
       scategories:
         - name: Machine Learning

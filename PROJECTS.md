@@ -70,6 +70,14 @@ https://crates.io/crates/clippy
 ### Logging
 
 #### Crate
+log
+
+#### Url
+https://crates.io/crates/log
+
+### Structured Logging
+
+#### Crate
 slog
 
 #### Url
@@ -376,6 +384,34 @@ https://crates.io/crates/r2d2
 
 
 ### Template Engines
+
+#### Crate
+[**Nominate**](#nomination)
+
+#### Url
+
+
+
+[**Top**](#prod)
+## Database
+
+### MySQL
+
+#### Crate
+[**Nominate**](#nomination)
+
+#### Url
+
+
+### Postgresql
+
+#### Crate
+[**Nominate**](#nomination)
+
+#### Url
+
+
+### Elasticsearch
 
 #### Crate
 [**Nominate**](#nomination)

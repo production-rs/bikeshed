@@ -16,6 +16,7 @@
 | [**Security Essentials**](#securityessentials)          |
 | [**Serialization and Deserialization**](#serializationanddeserialization)          |
 | [**Common**](#common)          |
+| [**Database**](#database)          |
 | [**HPC and Data Science**](#hpcanddatascience)          |
 | [**Application Essentials**](#applicationessentials)          |
 
@@ -43,7 +44,8 @@
 
 | Category                       | Crate                     | URL                              |
 |--------------------------------|---------------------------|----------------------------------|
-| Logging                   | slog | https://crates.io/crates/slog |
+| Logging                   | log | https://crates.io/crates/log |
+| Structured Logging                   | slog | https://crates.io/crates/slog |
 | Regex                   | regex | https://crates.io/crates/regex |
 | Temporary File Handling                   | tempfile | https://crates.io/crates/tempfile |
 | Random Numbers                   | [**Nominate**](#nomination) |  |
@@ -110,6 +112,15 @@
 | ORM                   | [**Nominate**](#nomination) |  |
 | Web Frameworks                   | [**Nominate**](#nomination) |  |
 | Template Engines                   | [**Nominate**](#nomination) |  |
+
+[**Top**](#prod)
+## Database
+
+| Category                       | Crate                     | URL                              |
+|--------------------------------|---------------------------|----------------------------------|
+| MySQL                   | [**Nominate**](#nomination) |  |
+| Postgresql                   | [**Nominate**](#nomination) |  |
+| Elasticsearch                   | [**Nominate**](#nomination) |  |
 
 [**Top**](#prod)
 ## HPC and Data Science

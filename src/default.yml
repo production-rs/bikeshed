@@ -29,6 +29,9 @@ variables:
     - name: Essentials
       scategories:
         - name: Logging
+          crate: log
+          c_url: https://crates.io/crates/log
+        - name: Structured Logging
           crate: slog
           c_url: https://crates.io/crates/slog
         - name: Regex
@@ -93,6 +96,11 @@ variables:
         - name: ORM
         - name: Web Frameworks
         - name: Template Engines
+    - name: Database
+      scategories:
+        - name: MySQL
+        - name: Postgresql
+        - name: Elasticsearch
     - name: HPC and Data Science
       scategories:
         - name: Machine Learning

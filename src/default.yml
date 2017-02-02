@@ -13,6 +13,11 @@ variables:
           crate: rayon
           c_url: https://crates.io/crates/rayon
           comment: This sub category possibly needs to be included in another category alltogether.
+        - name: Concurrency
+        - name: Asynchrony
+          crate: futures
+          c_url: https://crates.io/crates/futures
+        - name: Parallelism
     - name: Rust
       scategories:
         - name: Cargo Outdated
@@ -57,6 +62,8 @@ variables:
           c_url: https://crates.io/crates/reqwest
         - name: Bit handling
         - name: Non-blocking IO
+          crate: tokio-core
+          c_url: https://crates.io/crates/tokio-core
     - name: Network
       scategories:
         - name: Protocols

@@ -28,6 +28,9 @@
 | Time                   | chrono | https://crates.io/crates/chrono |
 | Static Global Variables                   | lazy_static | https://crates.io/crates/lazy_static |
 | Data Parallelism                   | rayon | https://crates.io/crates/rayon |
+| Concurrency                   | [**Nominate**](#nomination) |  |
+| Asynchrony                   | futures | https://crates.io/crates/futures |
+| Parallelism                   | [**Nominate**](#nomination) |  |
 
 [**Top**](#prod)
 ## Rust
@@ -61,7 +64,7 @@
 | URL Handling                   | url | https://crates.io/crates/url |
 | HTTP Client                   | reqwest | https://crates.io/crates/reqwest |
 | Bit handling                   | [**Nominate**](#nomination) |  |
-| Non-blocking IO                   | [**Nominate**](#nomination) |  |
+| Non-blocking IO                   | tokio-core | https://crates.io/crates/tokio-core |
 
 [**Top**](#prod)
 ## Network

@@ -27,6 +27,30 @@ rayon
 #### Url
 https://crates.io/crates/rayon
 
+### Concurrency
+
+#### Crate
+[**Nominate**](#nomination)
+
+#### Url
+
+
+### Asynchrony
+
+#### Crate
+futures
+
+#### Url
+https://crates.io/crates/futures
+
+### Parallelism
+
+#### Crate
+[**Nominate**](#nomination)
+
+#### Url
+
+
 
 [**Top**](#prod)
 ## Rust
@@ -162,10 +186,10 @@ https://crates.io/crates/reqwest
 ### Non-blocking IO
 
 #### Crate
-[**Nominate**](#nomination)
+tokio-core
 
 #### Url
-
+https://crates.io/crates/tokio-core
 
 
 [**Top**](#prod)

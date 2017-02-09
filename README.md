@@ -158,7 +158,7 @@ Have a look at the founding doc: https://github.com/production-rs/bikeshed/blob/
 
 ## Alternatives
 
-If a crate is flagged as an 'alternative' crate for a give category it often means that it is an older crate with lots of established users that still enjoys widespread support but is not necessarily the first choice for new projects.
+If a crate is flagged as an 'alternative' crate for a given category it often means that it is an older crate with lots of established users that still enjoys widespread support, but is not necessarily the first choice for new projects.
 It can also indicate that the alternate approach or API of the crate appeals to large set developers that are interested in solving the same problem.
 
 ## Nomination

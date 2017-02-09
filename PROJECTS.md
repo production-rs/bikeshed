@@ -251,13 +251,21 @@ https://crates.io/crates/ring
 [**Top**](#prod)
 ## Serialization and Deserialization
 
-### Command Line
+### Command Line Parsing
 
 #### Crate
-[**Nominate**](#nomination)
+clap
 
 #### Url
+https://crates.io/crates/clap
 
+### Command Line Parsing
+
+#### Crate
+docopt
+
+#### Url
+https://crates.io/crates/docopt
 
 ### TOML
 

@@ -82,7 +82,13 @@ variables:
         - name: Authentication
     - name: Serialization and Deserialization
       scategories:
-        - name: Command Line
+        - name: Command Line Parsing
+          crate: clap
+          c_url: https://crates.io/crates/clap
+        - name: Command Line Parsing
+          crate: docopt
+          c_url: https://crates.io/crates/docopt
+          alt: True
         - name: TOML
         - name: JSON
           crate: serde_json

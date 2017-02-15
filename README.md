@@ -21,6 +21,7 @@
 | [**Database**](#database)          |
 | [**HPC and Data Science**](#hpcanddatascience)          |
 | [**Application Essentials**](#applicationessentials)          |
+| [**Testing**](#testing)          |
 
 
 ## Core
@@ -51,6 +52,7 @@
 |--------------------------------|---------------------------|----------------------------------|
 | Logging  | log | https://crates.io/crates/log  |
 | Structured Logging  | slog | https://crates.io/crates/slog  |
+| Log File Appenders  | [**Nominate**](#nomination) |   |
 | Regex  | regex | https://crates.io/crates/regex  |
 | Temporary File Handling  | tempfile | https://crates.io/crates/tempfile  |
 | Random Numbers  | rand | https://crates.io/crates/rand  |
@@ -147,6 +149,15 @@
 | GUI  | [**Nominate**](#nomination) |   |
 | OpenGL  | [**Nominate**](#nomination) |   |
 | Sound  | [**Nominate**](#nomination) |   |
+
+[**Top**](#prod)
+## Testing
+
+| Category                       | Crate                     | URL                              |
+|--------------------------------|---------------------------|----------------------------------|
+| Unit Testing  | [**Nominate**](#nomination) |   |
+| Test Frameworks  | [**Nominate**](#nomination) |   |
+| Integration Testing  | [**Nominate**](#nomination) |   |
 
 [**Top**](#prod)
 

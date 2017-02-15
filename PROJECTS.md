@@ -107,6 +107,14 @@ slog
 #### Url
 https://crates.io/crates/slog
 
+### Log File Appenders
+
+#### Crate
+[**Nominate**](#nomination)
+
+#### Url
+
+
 ### Regex
 
 #### Crate
@@ -516,6 +524,34 @@ https://crates.io/crates/image
 
 
 ### Sound
+
+#### Crate
+[**Nominate**](#nomination)
+
+#### Url
+
+
+
+[**Top**](#prod)
+## Testing
+
+### Unit Testing
+
+#### Crate
+[**Nominate**](#nomination)
+
+#### Url
+
+
+### Test Frameworks
+
+#### Crate
+[**Nominate**](#nomination)
+
+#### Url
+
+
+### Integration Testing
 
 #### Crate
 [**Nominate**](#nomination)

@@ -40,6 +40,7 @@ variables:
         - name: Structured Logging
           crate: slog
           c_url: https://crates.io/crates/slog
+        - name: Log File Appenders
         - name: Regex
           crate: regex
           c_url: https://crates.io/crates/regex
@@ -145,6 +146,11 @@ variables:
         - name: GUI
         - name: OpenGL
         - name: Sound
+    - name: Testing
+      scategories:
+        - name: Unit Testing
+        - name: Test Frameworks
+        - name: Integration Testing
 
   panel:
     - name: Stephan Buys
